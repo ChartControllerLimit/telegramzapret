@@ -7,5 +7,4 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 Clean-param: utm_source&utm_medium&utm_campaign
-
-Sitemap: https://chartcontrollerlimit.github.io/telegramzapret/sitemap.xml
+Sitemap: https://github.com/chartcontrollerlimit/telegramzapret
